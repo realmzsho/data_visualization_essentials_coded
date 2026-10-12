@@ -39,10 +39,3 @@ The notebook explores various types of plots and their specific use cases in exp
 * **Matplotlib** (The foundational plotting library)
 * **Seaborn** (For statistical data visualization and beautiful aesthetics)
 
----
-
-## 💡 How to Use
-
-1. Clone this repository to your local machine:
-   ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
